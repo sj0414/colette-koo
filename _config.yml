@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Colette Suhjung Koo"
 description              : &description "personal description"
 url                      : https://sj0414.github.io/colette-koo/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/colette-koo" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sj0414.github.io/colette-koo/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
