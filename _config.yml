@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Colette Suhjung Koo's Homepage"
+title                    : "Colette's Homepage"
 title_separator          : "-"
 name                     : &name "Colette Suhjung Koo"
 description              : &description "personal description"
