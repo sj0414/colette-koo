@@ -20,13 +20,34 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 News
 ======
 
-[//]: # (- **Apr 2, 2024**: Thrilled to announce my acceptance into UNC’s CS Master’s program, commencing Fall 2024)
+### 2024
 
-[//]: # (- **Jan 9, 2024**: Il-Youp Kwak, Byeong-Chan Kim, Juhyun Lee, Taein Kang, Daniel J. Garry, Jianyi Zhang, and Wuming Gong &#40;2024&#41; Proformer: a hybrid macaron transformer model predicts expression values from promoter sequences, BMC Bioinformatics, Published. [paper]&#40;#&#41;)
+- **Jul., 2024 - Present**: Working as an Undergraduate Research Assistant under Professor Hyungseok Kim.
+- **Dec., 2024**: Successfully completed Graduation Project on developing a *Conference Record Management Service Using Computer Vision*.
+- **Jun., 2024**: Successfully completed the *Image Matching System Development Project*.
+- **Jun., 2024**: Completed development of an app that helps users locate nearby medical facilities and provides quick guidance on emergency response actions.
+- **May, 2024**: Presented on *Documentation, Organization, and Planning*.
+- **May, 2024**: Awarded **Excellence Award** at Wrtn Technologies Inc. 2nd Ideathon, Generative AI Ideathon at Konkuk University.
+- **Feb., 2024**: Successfully submitted the *Nanuming* project for the 2024 GDSC Solution Challenge, offering a contactless sharing service for baby care products through a self-designed *Nanuming Box*.
 
-[//]: # (- **Aug 18, 2023**: Graduated from Chung-Ang University)
+### 2023
 
-[//]: # (- **Apr 28, 2023**: Evaluation and optimization of sequence-based gene regulatory deep learning models)
+- **Nov., 2023**: Competed in an AI competition on Dacon to predict prices of specialty products from Jeju, achieving **top 21%** with my AI team.
+- **Dec., 2023**: Successfully completed the project and presentation for *Emergency Pet Management and Dispatch Service*.
+- **Dec., 2023**: Successfully completed a family management app development project that allows all family members to participate.
+- **Sep., 2023**: Presented my startup idea on *Emergency Pet Management and Dispatch Service*, and was selected as the **Top Student**.
+- **Jun., 2023**: Successfully completed a personal routine management and assistant application development project.
+- **Jun., 2023**: Successfully completed a project developing a system for *Object Recognition in Videos*, focusing on face detection and hand detection.
+- **May, 2023**: Selected as a member of the **STARTUP021 Entrepreneurship Club**.
+
+### 2022
+
+- **Sep., 2022**: Won the **Gold Prize** at the Software Innovation Competition at Sungshin Women’s University.
+- **Jan. - Jun., 2022**: Worked as an Undergraduate Research Assistant under Professor Haewon Byun.
+
+### 2021
+
+- **Sep., 2021**: Successfully submitted a project for the Software Innovation Competition at Sungshin Women’s University, developing a game to help children prevent and escape from disaster and emergency situations.
 
 Site-wide configuration
 ------
