@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I’m Colette Suhjung Koo, expected to graduate with a Bachelor of Science in Computer Science and Engineering from Konkuk University, with a passion for computer graphics, digital twins, and realistic rendering. Here, you’ll find insights into my projects, research, and areas of interest. Explore to learn more about my journey and the work I’m passionate about.
+I’m Colette Suhjung Koo, expected to graduate with a Bachelor of Science in Computer Science and Engineering from Konkuk University. My main interests lie in computer graphics, digital twins, realistic rendering and animation. Currently, I work as an undergraduate research assistant at the Virtual Reality Laboratory, focusing on research in computer graphics under the guidance of Professor Hyungseok Kim. Previously, I also worked as a research assistant under the advisement of Professor Haewon Byun, engaging in deep learning studies, where I gained hands-on experience in developing and applying machine learning models.
 
 My Journey in Computer Graphics Research and Personal Passions
 ======
