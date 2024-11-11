@@ -9,20 +9,22 @@ redirect_from:
 
 Welcome to my website! I’m Colette Suhjung Koo, expected to graduate with a Bachelor of Science in Computer Science and Engineering from Konkuk University, with a passion for computer graphics, digital twins, and realistic rendering. Here, you’ll find insights into my projects, research, and areas of interest. Explore to learn more about my journey and the work I’m passionate about.
 
-A data-driven personal website
+My Journey in Computer Graphics Research and Personal Passions
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+[//]: # (- **Apr 2, 2024**: Thrilled to announce my acceptance into UNC’s CS Master’s program, commencing Fall 2024)
+
+[//]: # (- **Jan 9, 2024**: Il-Youp Kwak, Byeong-Chan Kim, Juhyun Lee, Taein Kang, Daniel J. Garry, Jianyi Zhang, and Wuming Gong &#40;2024&#41; Proformer: a hybrid macaron transformer model predicts expression values from promoter sequences, BMC Bioinformatics, Published. [paper]&#40;#&#41;)
+
+[//]: # (- **Aug 18, 2023**: Graduated from Chung-Ang University)
+
+[//]: # (- **Apr 28, 2023**: Evaluation and optimization of sequence-based gene regulatory deep learning models)
 
 Site-wide configuration
 ------
