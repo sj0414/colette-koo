@@ -2,6 +2,7 @@
 title: "Disaster Escape"
 excerpt: "Development of 'Disaster Escape' – A Disaster Evacuation Training Game"
 collection: portfolio
+order: 2
 ---
 
 Development of 'Disaster Escape' – A Disaster Evacuation Training Game
