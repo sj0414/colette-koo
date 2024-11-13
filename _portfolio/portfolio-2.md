@@ -1,5 +1,5 @@
 ---
-title: "CAMVI: Campus Navigation App for Sungshin Women’s University"
+title: "CAMVI"
 excerpt: "Development of 'CAMVI' – Campus Navigation App for Sungshin Women’s University"
 collection: portfolio
 order: 1
