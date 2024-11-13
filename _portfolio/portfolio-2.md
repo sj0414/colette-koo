@@ -1,25 +1,22 @@
 ---
-title: "CAMVI"
-excerpt: "Development of 'CAMVI' – Campus Navigation App for Sungshin Women’s University"
+title: "Disaster Escape"
+excerpt: "Development of 'Disaster Escape' – A Disaster Evacuation Training Game"
 collection: portfolio
 ---
 
-CAMVI: Campus Navigation App for Sungshin Women’s University
+Development of 'Disaster Escape' – A Disaster Evacuation Training Game
 
-![CAMVI Image](../images/CAMVI-1.png)
-![CAMVI Image](../images/CAMVI-2.png)
+![CAMVI Image](../images/DE-1.png)
+![CAMVI Image](../images/DE-2.png)
 
-Developed **CAMVI**, an on-campus navigation application designed to assist students and faculty in easily locating buildings and classrooms at Sungshin Women’s University. This app addresses challenges faced by students returning to campus after remote learning, and is particularly helpful for those unfamiliar with campus layouts.
 
-Project Highlights:
-- **Real-time Navigation**: Users can set a starting point and destination, with the app providing the shortest route. Custom paths include shortcuts familiar to students, enhancing navigation efficiency.
-- **Interactive Campus Map**: Detailed floor plans and building layouts are available, helping users navigate indoors and find specific classrooms and facilities.
-- **Midpoint Finder**: Enables users to input multiple locations and identify a convenient meeting point, ideal for coordinating group activities.
-- **Classroom Occupancy and Seating**: Allows users to view classroom seating arrangements, check occupancy levels, and even select available seats for upcoming classes.
+To address the lack of disaster evacuation training in remote education environments, we developed Disaster Escape, a game designed to teach elementary school students the proper response procedures in emergency situations such as fires, earthquakes, and CPR. Built using Python’s Pygame, the game features engaging characters, sound effects, and an easy-to-repeat structure to support continuous learning.
 
-Development Process:
-- **Platform**: Built with Java on Android Studio, using Firebase for user authentication and data management.
-- **Mapping and Floor Plans**: Created custom floor plans using Floorplanner, with color-coding to indicate different facility types. Developed pathfinding functionality using Dijkstra’s algorithm to calculate the shortest routes and display them on the map.
-- **Team Collaboration**: Conducted weekly in-person meetings and daily online sessions using Google Meet. Documentation and progress tracking were managed with Notion and Google Drive.
+Key Features:
 
-CAMVI offers a scalable solution that could be adapted to other universities, providing new students with an intuitive tool to navigate complex campus environments.
+- Diverse Disaster Scenarios: Provides training on step-by-step evacuation procedures for scenarios like fires, earthquakes, and CPR.
+- Character Selection: Allows users to choose their characters, enhancing engagement and enjoyment.
+- Customized Problem-Solving: Uses multiple-choice quizzes tailored to each disaster scenario, encouraging players to learn correct responses.
+- Additional Resources: Includes QR code links to the National Disaster Safety Portal for further study on a wider range of disaster responses.
+
+Through this game, players can naturally learn appropriate actions for various scenarios and enhance their emergency response skills.
