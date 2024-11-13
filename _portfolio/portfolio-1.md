@@ -19,4 +19,5 @@ Key Features:
 - Character Selection: Allows users to choose their characters, enhancing engagement and enjoyment.
 - Customized Problem-Solving: Uses multiple-choice quizzes tailored to each disaster scenario, encouraging players to learn correct responses.
 - Additional Resources: Includes QR code links to the National Disaster Safety Portal for further study on a wider range of disaster responses.
+
 Through this game, players can naturally learn appropriate actions for various scenarios and enhance their emergency response skills.
