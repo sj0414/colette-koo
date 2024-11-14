@@ -1,10 +1,10 @@
 ---
 title: "Object Recognition in Videos"
-excerpt: "Development of 'UNIBOT' – Campus Navigation System and AI Chatbot Service, an advanced development of CAMVI"
+excerpt: "DDevelopment of an Object Recognition System in Videos – Implementing advanced techniques for detecting and tracking hands and vehicles."
 collection: portfolio
 ---
 
-Development of 'UNIBOT' – Campus Navigation System and AI Chatbot Service, an advanced development of CAMVI
+Development of an Object Recognition System in Videos – Implementing advanced techniques for detecting and tracking hands and vehicles.
 
 **Project Overview**  
 This project aimed to develop a system for recognizing specific objects (faces, hands, vehicles) in videos. The main functionalities include hand detection, face detection, and vehicle detection, designed to accurately capture object movements and visually confirm recognition.
