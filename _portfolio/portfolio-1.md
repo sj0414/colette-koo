@@ -1,37 +1,38 @@
 ---
-title: "UNIBOT"
+title: "Object Recognition in Videos"
 excerpt: "Development of 'UNIBOT' – Campus Navigation System and AI Chatbot Service, an advanced development of CAMVI"
 collection: portfolio
 ---
 
 Development of 'UNIBOT' – Campus Navigation System and AI Chatbot Service, an advanced development of CAMVI
 
-![UNIBOT Image](../images/UNIVER-1.png)
-![UNIBOT Image](../images/UNIVER-2.png)
+**Project Overview**  
+This project aimed to develop a system for recognizing specific objects (faces, hands, vehicles) in videos. The main functionalities include hand detection, face detection, and vehicle detection, designed to accurately capture object movements and visually confirm recognition.
 
+**Key Features and Development Process**
 
-**Overview**  
-UNIBOT is a mobile app available on both Android and iOS, featuring two main functions:
-1. **AI Chatbot**: The chatbot provides users with quick answers to questions related to school, such as class schedules, exam dates, and campus events, offering essential information to enhance the convenience of student life.
-2. **Campus Navigation System** (*Advanced development of CAMVI*): By inputting starting points and destinations, users can view the shortest route, considering elements like hills and stairs, allowing efficient navigation both indoors and outdoors. This feature helps students and faculty easily explore the campus and discover new locations.
+![OBJECT Image](../images/OBJ-1.png)
+- **Hand Detection**
+  1. Converted RGB frames to HSV format to separate hand regions based on color.
+  2. Applied background subtraction and thresholding to emphasize edges and separate hand areas.
+  3. Converted frames back to RGB, where pixels outside a specific G-value range were marked black, ensuring clearer hand recognition.
+  4. Used morphological and dilation operations to maintain object shape and drew bounding boxes around detected hands for verification.
 
-**Key Features**
-- **Chatbot Functionality**:
-    - Provides real-time answers to campus-related questions, such as class schedules, exam dates, dining options, and campus events. The chatbot helps prevent redundant questions and offers concise responses, making information easily accessible.
-    - Aiming to integrate the chatbot with the university website for seamless information access.
+  In the resulting images, overlapping hands are recognized as one bounding box, while separated hands are shown as distinct objects, demonstrating accurate detection.
 
-- **Navigation System**:
-    - Optimized indoor and outdoor route display, showing the shortest path based on the campus floor plans.
-    - Includes classroom seating information and a QR attendance system simulation for convenient check-ins.
-    - Encourages exploration of new places on campus by offering location information and event details, making it more than just a navigation tool.
+![OBJECT Image](../images/OBJ-2.png)
+- **Vehicle Detection**
+  1. Loaded video frames and calculated the difference between current and previous frames to detect movement.
+  2. Converted these frames to grayscale and applied Gaussian Blur to reduce noise.
+  3. Used thresholding to highlight vehicle contours and remove the background.
+  4. Applied dilation to fill small gaps and make contours more prominent.
+  5. Drew bounding boxes around vehicles based on the contours detected.
 
-**Scalability**  
-Beyond the campus, UNIBOT has the potential to expand to larger indoor spaces, such as COEX or Everland, where navigating complex venues can be challenging.
+  In the results, regular vehicles were detected accurately, while larger trucks or uniquely shaped vehicles sometimes showed multiple bounding boxes. Overall, the vehicle recognition was effective and stable.
 
-**Development Process**
-- **Platform**: Supports Android and iOS, using Firebase for data management.
-- **Mapping and Floor Plans**: Created accurate campus maps and developed optimized route display using Dijkstra’s algorithm.
-- **Teamwork and Skills**: Comprised of team members with expertise in planning, development, design, and commercialization, we successfully managed all project phases, leveraging creative problem-solving and collaboration skills.
+**Project Outcomes**
+- Gained experience in efficient image preprocessing and visualization techniques for object recognition.
+- Utilized morphological operations and filtering techniques to improve recognition accuracy in varied environments.
+- Successfully implemented object detection and visualization capabilities using video data.
 
-**Goal**
-UNIBOT aims to enhance student life by providing easy access to essential information and optimizing campus navigation. Additionally, it seeks to expand its scope, becoming a versatile tool for navigation and information in various large-scale indoor venues.
+This project enhanced my skills in applying object recognition algorithms and image preprocessing techniques in real-world settings.
