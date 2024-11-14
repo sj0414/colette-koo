@@ -1,6 +1,6 @@
 ---
 title: "Object Recognition in Videos"
-excerpt: "DDevelopment of an Object Recognition System in Videos – Implementing advanced techniques for detecting and tracking hands and vehicles."
+excerpt: "Development of an Object Recognition System in Videos – Implementing advanced techniques for detecting and tracking hands and vehicles."
 collection: portfolio
 ---
 
