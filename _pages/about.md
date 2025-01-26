@@ -16,6 +16,10 @@ My main interests lie in **computer graphics, digital twins, realistic rendering
 News
 ======
 
+### 2025
+
+- **Feb., 2025**: Excited to announce that I will be presenting at the HCI KOREA 2025 Conference in the poster session.
+
 ### 2024
 
 - **Jul., 2024 - Present**: Working as an Undergraduate Research Assistant under Professor Hyungseok Kim.
