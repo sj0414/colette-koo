@@ -7,22 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-I am expected to graduate with a Bachelor of Science in Computer Science and Engineering from Konkuk University. Currently, I work as an undergraduate research assistant at the Virtual Reality Laboratory, focusing on research in computer graphics under the guidance of Professor Hyungseok Kim. Previously, I also worked as a research assistant under the advisement of Professor Haewon Byun, engaging in deep learning studies, where I gained hands-on experience in developing and applying machine learning models.
+Currently, I am a **Research Intern** at the **Visual Media Lab, KAIST**, under the advisement of Professor Junyong Noh. I hold a Bachelor of Science in Computer Science and Engineering from Konkuk University. Previously, I served as an undergraduate research assistant at the **DCRC Lab, Konkuk University**, focusing on computer graphics research under the guidance of Professor Hyungseok Kim. I also have experience as a research assistant under Professor Haewon Byun, where I gained hands-on experience in developing and applying deep learning models.
 
 Research Interests
 ======
-My main interests lie in **computer graphics, digital twins, realistic rendering and animation**. I am passionate about developing lifelike rendering techniques and animation to create immersive digital environments that closely replicate the physical world.
+My research interests lie at the intersection of Computer Graphics and Deep Learning, with a specific focus on **3D Facial Reconstruction, Generation, and Modeling**. I am passionate about developing lifelike digital humans through advanced Facial Retargeting and Animation Transfer techniques. My goal is to leverage Neural Rendering to create immersive, high-fidelity digital environments and realistic animations that seamlessly bridge the gap between the physical and virtual worlds.
 
 News
 ======
 
+### 2026
+
+- **Jun., 2026**: 🎉 My co-authored paper, *"X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection"*, has been accepted to *CVPR 2026*. 🎉
+- **Jul., 2025 - Present**: Working as a *Research Intern* at *Visual Media Lab, KAIST*, under the advisement of Professor Junyong Noh.
+
 ### 2025
 
-- **Feb., 2025**: Excited to announce that I will be presenting at the HCI KOREA 2025 Conference in the poster session.
+- **Feb., 2025**: Presented a poster at the *HCI KOREA 2025 Conference*.
+- **Jul., 2024 - Feb., 2025**: Served as an *Undergraduate Research Assistant* at the *DCRC Lab, Konkuk University*, under Professor Hyungseok Kim.
 
 ### 2024
 
-- **Jul., 2024 - Present**: Working as an Undergraduate Research Assistant under Professor Hyungseok Kim.
 - **Dec., 2024**: Successfully completed Graduation Project on developing a *Conference Record Management Service Using Computer Vision*.
 - **May, 2024**: Presented on *Documentation, Organization, and Planning*.
 - **May, 2024**: Awarded **Excellence Award** at Wrtn Technologies Inc. 2nd Ideathon, Generative AI Ideathon at Konkuk University.
