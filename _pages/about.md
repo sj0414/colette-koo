@@ -11,7 +11,7 @@ Currently, I am a **Research Intern** at the **Visual Media Lab, KAIST**, under 
 
 Research Interests
 ======
-My research interests lie at the intersection of Computer Graphics and Deep Learning, with a specific focus on **3D Facial Reconstruction, Generation, and Modeling**. I am passionate about developing lifelike digital humans through advanced Facial Retargeting and Animation Transfer techniques. My goal is to leverage Neural Rendering to create immersive, high-fidelity digital environments and realistic animations that seamlessly bridge the gap between the physical and virtual worlds.
+My research interests lie at the intersection of Computer Graphics and Deep Learning, with a specific focus on **3D Facial Reconstruction, Generation, and Modeling**. I am passionate about developing lifelike digital humans through advanced Facial Retargeting and Animation Transfer tecahniques. My goal is to leverage Neural Rendering to create immersive, high-fidelity digital environments and realistic animations that seamlessly bridge the gap between the physical and virtual worlds.
 
 News
 ======
