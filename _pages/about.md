@@ -11,7 +11,7 @@ Currently, I am a **master’s student in AI Transformation (AX) at KAIST**, con
 
 Research Interests
 ======
-My research interests lie at the intersection of **Computer Graphics and Deep Learning**, with a focus on **3D facial reconstruction, generation, and modeling** and **neural rendering**. I am interested in developing realistic digital humans through expressive representations and high-quality rendering. Currently, I am working on **head and full-body reconstruction and avatar animation**.
+My research interests lie at the intersection of **Computer Graphics and Deep Learning**, with a focus on **3D facial reconstruction, generation, and modeling**. I am interested in developing realistic digital humans through expressive representations and high-quality rendering. Currently, I am working on **head and full-body reconstruction and avatar animation**.
 
 Publications
 ======
