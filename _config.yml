@@ -21,7 +21,7 @@ repository               : "sj0414.github.io/colette-koo/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "서정님.jpg"
+  avatar           : "서정.jpg"
   name             : "Colette Suhjung Koo"
   pronouns         : # example: "she/her"  
   bio              : " "
