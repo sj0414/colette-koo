@@ -13,6 +13,25 @@ Research Interests
 ======
 My research interests lie at the intersection of **Computer Graphics and Deep Learning**, with a focus on **3D facial reconstruction, generation, and modeling**, **facial retargeting and animation transfer**, and **neural rendering**. I am interested in developing realistic digital humans through expressive representations and high-quality rendering. Currently, I am working on **head and full-body reconstruction and avatar animation**.
 
+Publications
+======
+
+- **FaceJEPA: Canonicalizing 3D Faces for Self-Supervised Representation Learning**  
+  Kwan Yun, **Colette Suhjung Koo**, and Junyong Noh.  
+  *ACM Transactions on Graphics (TOG)* — Under Review.
+
+- **EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure**  
+  Kwan Yun, Minhyeok Bang, **Colette Suhjung Koo**, and Junyong Noh.  
+  *ACM Transactions on Graphics (TOG)* — Under Review.
+
+- **X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection**  
+  Youngseo Kim, Kwan Yun, Seokhyeon Hong, Sihun Cha, **Colette Suhjung Koo**, and Junyong Noh.  
+  *CVPR 2026*.
+
+- **Realistic Lighting Implementation and Optimization Using Physically Based Rendering and Image-Based Lighting**  
+  **Suhjung Koo** and Hyungseok Kim.  
+  *HCI KOREA 2025*, pp. 1022–1026.
+
 News
 ======
 
@@ -20,7 +39,7 @@ News
 
 - **Sep. 2026**: Started my master’s studies in **AI Transformation (AX) at KAIST**, continuing my research at the **Visual Media Lab** under Professor Junyong Noh.
 - **Aug. 2026**: Completed my research internship at the **Visual Media Lab, KAIST**.
-- **2026**: Co-authored *"X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection"*, accepted to **CVPR 2026**.
+- **2026**: Co-authored *"X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection"*, published at **CVPR 2026**.
 
 ### 2025
 
